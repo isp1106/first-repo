@@ -1,2 +1,2 @@
-`python test`
+for _in range(5)
 print('hello world!');
